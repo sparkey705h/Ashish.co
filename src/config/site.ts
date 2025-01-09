@@ -2,7 +2,7 @@ import { NavItem } from "@/types/nav"
 
 export const siteConfig = {
   // Basic Info
-  name: "Subash Chandra",
+  name: "Bob Chandra",
   title: "Technical Product Associate & Data Domain Architect",
   company: "J.P. Morgan Chase",
   location: "Plano, Texas · Hybrid",
