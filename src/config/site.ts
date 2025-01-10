@@ -49,6 +49,7 @@ export const navItems: NavItem[] = [
   { name: "Home", href: "#hero" },
   { name: "Resume", href: "#skills", sections: ["skills", "experience", "certifications"] },
   { name: "Projects", href: "#projects" },
+  { name: "Gallery", href: "#gallery" },
   { name: "Contact", href: "#contact" },
 ] as const;
 
